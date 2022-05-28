@@ -13,6 +13,4 @@
   
     If you want to retrieve a specify data item (e.g. Cltot =   0), then the regex will be: Cltot\s*=\s* (-)?\w*
   
-◆ To learn to use or test your Regex, just run "DataFileParserShell.exe". 
-
-◆ Click the "Help" button to show help in the console. 
+◆ To learn to use or test your Regex, just run "DataFileParserShell.exe". Click the "Help" button if you need help. 
